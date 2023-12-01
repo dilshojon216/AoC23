@@ -21,7 +21,7 @@ public class MainDay1 {
         try {
             float start = System.nanoTime();
             BufferedReader br = new BufferedReader(new FileReader("src/day1/input.txt"));
-            ArrayList<Integer> numbers = new ArrayList<Integer>();
+            ArrayList<Integer> numbers = new ArrayList<>();
             String line;
             while ((line = br.readLine()) != null) {
                 for (String number : line.split("\n")) {
@@ -54,8 +54,7 @@ public class MainDay1 {
         try {
             float start = System.nanoTime();
             BufferedReader br = new BufferedReader(new FileReader("src/day1/input.txt"));
-            ArrayList<Integer> numbers = new ArrayList<Integer>();
-            Map<String,Integer>letter= new HashMap<String,Integer>();
+            Map<String,Integer>letter= new HashMap<>();
             letter.put("one",1);
             letter.put("two",2);
             letter.put("three",3);
