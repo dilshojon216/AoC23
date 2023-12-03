@@ -115,7 +115,6 @@ Time part 1: -
 Time part 2: -
 Both parts: -
 ```
-
 ```
 Day 12
 Time part 1: -
