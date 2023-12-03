@@ -6,8 +6,8 @@
 <!--SOLUTIONS-->
 
 [![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](/src/day1)
-[![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](src/day02)
-![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/gray)
+[![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](/src/day2)
+[![Day](https://badgen.net/badge/03/%E2%98%86%E2%98%86/gray)](/src/day3)
 ![Day](https://badgen.net/badge/04/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/05/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)
@@ -41,23 +41,23 @@ _Click a badge to go to the specific day._
 
 ```
 Day 01
-Time part 1: 1.872ms
-Time part 2: 2.327ms
-Both parts: 4.199ms
+Time part 1: 56.623104ms
+Time part 2:  6.291456ms
+Both parts: 60 ms
 ```
 
 ```
 Day 02
-Time part 1: 1.756ms
-Time part 2: 0.987ms
-Both parts: 2.743ms
+Time part 1: 27.787264 ms
+Time part 2: 2.62144ms
+Both parts:  30 ms
 ```
 
 ```
 Day 03
-Time part 1: -
-Time part 2: -
-Both parts: -
+Time part 1: 13.1072ms
+Time part 2: 13.1072ms
+Both parts: 27 ms
 ```
 
 ```
